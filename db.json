@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Meeting at School",
       "day": "May 6th at 2:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
@@ -19,9 +19,9 @@
       "reminder": false
     },
     {
-      "text": "b",
-      "day": "y",
-      "reminder": false,
+      "text": "go to the park",
+      "day": "today  12:00pm",
+      "reminder": true,
       "id": 4
     }
   ]
